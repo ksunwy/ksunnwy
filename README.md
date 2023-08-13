@@ -14,3 +14,5 @@ npm run dev
 
 ## Deploy
 [https://ksunnwy.vercel.app](https://ksunnwy.vercel.app)
+
+P.S. right-click to open links in a new window
